@@ -1,0 +1,5 @@
+streamlit
+llama-index
+pypdf
+tiktoken
+python-dotenv
